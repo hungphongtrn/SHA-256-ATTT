@@ -1,12 +1,14 @@
 # Implementation of SHA-256
 
 ## Sample test 
+
+'''
 $ python hash.py
 Type or copy your message here: Hello
 Your message:  Hello
 Hash:  0001100001011111100011011011001100100010011100011111111000100101111101010110000110100110111111001001001110001011001011100010011001000011000001101110110000110000010011101101101001010001100000000000011111010001011101100100100000100110001110000001100101101001
 Length:  256
-
+'''
 ## A beginner's script to implement the SHA-256 in Python from scratch.
 
 SHA256 is a special tool that helps us keep our secrets safe. Just like how you have a secret password to access your phone or computer, there are secrets that we want to keep safe when we send them over the internet or store them on a computer.
